@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "prueba postman",
+    "description": "prueba postman",
+    "price": 150,
+    "url": "",
+    "code": "235aaa",
+    "stock": 100,
+    "category": "prueba de postman",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "prueba postman",
+    "description": "prueba postman",
+    "price": 150,
+    "url": "",
+    "code": "456qwe",
+    "stock": 100,
+    "category": "prueba de postman",
+    "status": true
+  }
+]
